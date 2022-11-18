@@ -135,7 +135,7 @@ params:
     # option to specify your github account in the footer; 
     # **uncomment** the below lines to show in footer
     github: 
-      link: f5se
+      link: f5se/f5seio-sourcecode
       title: Github
     # option to specify your gitlab account in the footer; 
     # **uncomment** the below lines to show in footer
@@ -190,7 +190,7 @@ languages:
       footer:
         logo: "/images/refresh-square.svg"
         github: 
-          link: f5se
+          link: f5se/f5seio-sourcecode
           title: Github
 
         # facebook: 
