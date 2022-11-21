@@ -1,5 +1,5 @@
 ---
-title: "BIG-IP kubernetes gateway"
+title: "BIG-IP Kubernetes Gateway"
 date: 2022-11-19T8:51:13+08:00
 draft: false
 hideLastModified: true
@@ -10,7 +10,7 @@ summary: "An implementation provider for kubernetes gateway API."
 showInMenu: false
 ---
 
-An implementation for k8s gateway API  with F5 BIG-IP as gateway. Provide full k8s gateway API support and customized API features to enterprise users.
+An implementation for k8s gateway API  with F5 BIG-IP as gateway. Provide full [k8s gateway API](https://gateway-api.sigs.k8s.io/) support and customized API features to enterprise users.
 
 
 
