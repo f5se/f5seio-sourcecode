@@ -13,3 +13,5 @@ Phase III: Develop Containerized agent for VELOS
 # A quick demo
 
 [Demo repo, bridge2modernapp](https://github.com/ChinaModernAppGroup/MSDA-Demo)
+
+![bridge2modernapp](./bridge2modernapp.png)
