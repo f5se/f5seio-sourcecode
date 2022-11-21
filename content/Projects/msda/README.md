@@ -8,8 +8,8 @@ Phase III: Develop Containerized agent for VELOS
 
 # Github Repo
 
-[github repo](https://github.com/orgs/ChinaModernAppGroup/teams/bridge2modernapp/repositories)
+[github repo, bridge2modernapp](https://github.com/orgs/ChinaModernAppGroup/teams/bridge2modernapp/repositories)
 
 # A quick demo
 
-[quick demo](https://github.com/ChinaModernAppGroup/MSDA-Demo)
+[Demo repo, bridge2modernapp](https://github.com/ChinaModernAppGroup/MSDA-Demo)
