@@ -9,6 +9,8 @@ showInMenu: yes
 
 You can PR to the site's source code [repo](https://github.com/f5se/f5seio-sourcecode) which the link is at the footer of the page.
 
+See all [Projects](/creative/)
+See all [Creativeness](/projects/)
 
 ### How to
 
