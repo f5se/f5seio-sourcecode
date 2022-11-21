@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 summaryImage: "batchconfigf5.jpg"
 keepImageRatio: yes
-tags: ["f5", "ltm", "tools"]
+tags: ["f5", "ltm", "tools", "Partner"]
 summary: "A cool bash config tool for ltm"
 showInMenu: false
 ---
