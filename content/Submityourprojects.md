@@ -1,5 +1,5 @@
 ---
-title: "Submit your project!"
+title: "Submit your projects/creativness!"
 date: 2022-11-18T9:52:13+08:00
 draft: false
 hideLastModified: true
