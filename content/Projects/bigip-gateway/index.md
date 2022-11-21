@@ -4,7 +4,7 @@ date: 2022-11-19T8:51:13+08:00
 draft: false
 hideLastModified: true
 keepImageRatio: yes
-summaryImage: "cis-c.png"
+summaryImage: "bipgw.png"
 tags: ["gateway", "api", "k8s", "ingress"]
 summary: "An implementation provider for kubernetes gateway API."
 showInMenu: false
