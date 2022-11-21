@@ -60,3 +60,4 @@ Examples for the folders:
 
 ```
 
+3. Commit and push to your own clone repo, then create PR for the upstream repo. I will be noticed once you PRed, I will review and approve ASAP.
