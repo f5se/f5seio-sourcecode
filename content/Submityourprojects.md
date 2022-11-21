@@ -12,3 +12,51 @@ You can PR to the site's source code repo which the link is at the footer of the
 
 
 See all [Projects](/projects/)
+
+
+
+### How to
+
+1. Git clone the site's source code repo
+2. Cd the `content` folder. 
+   * If you are submiting a full project, pls put it into the `Projects`folder
+   * if you are submiting a cool tools or hands on/mini project, then put it into the `Creative` folder
+
+Note:
+
+> Pls reference the other sub folders. You just need create a dedicate sub folder for yours. And then :
+>
+> 1. create a index.md file in it, you can copy from other projects or creatives and modify it.
+> 2. put a small and good looks  picture in the same folder, the picture don not need too big, prefer small, since it is used for list page.
+> 3. Pls make sure you modify the md file in the top section to reference the correct picture name.
+
+
+
+Examples for the folders:
+
+```shell
+├── Creative
+│   ├── batchconftools
+│   │   ├── batchconfigf5.jpg
+│   │   └── index.md
+│   └── f5apitest
+│       ├── f5apitest.jpg
+│       └── index.md
+├── Projects
+│   ├── bigip-gateway
+│   │   ├── bipgw.png
+│   │   └── index.md
+│   ├── ces
+│   │   ├── ces-logo.png
+│   │   └── index.md
+│   ├── cis-c
+│   │   ├── cis-c.png
+│   │   └── index.md
+│   └── nginx-icmt
+│       ├── cis-c.png
+│       ├── index.md
+│       └── nginx-icmt.png
+└── Submityourprojects.md
+
+```
+
