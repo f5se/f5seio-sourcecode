@@ -8,7 +8,10 @@
         {{/*  <section class="section content">  */}}
         <section class="section content has-text-justified">
           <!-- <div class="content"> -->
-            {{- .Content -}}
+            {{ $content := .Content }}
+            {{ $content = replaceRE `<a href="(https?://.+)">` `<a href="$1" target="_blank">` $content | safeHTML }}
+            {{ $content = replaceRE `<a href="(mailto:.+)">` `<a href="$1" target="_blank">` $content | safeHTML }}
+            {{ $content | safeHTML }}
           <!-- </div> -->
         </section>
       </div>
