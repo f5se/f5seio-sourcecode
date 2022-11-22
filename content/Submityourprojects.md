@@ -26,6 +26,7 @@ Note:
 > 1. create a index.md file in it, you can copy from other projects or creatives and modify it.
 > 2. put a small and good looks  picture in the same folder, the picture don not need too big, prefer small, since it is used for list page.
 > 3. Pls make sure you modify the md file in the top section to reference the correct picture name.
+> 4. The file name in your own folder must be index.md.
 
 
 
