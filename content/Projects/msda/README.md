@@ -1,3 +1,16 @@
+---
+title: "MSDA"
+date: 2022-11-22T9:09:09+08:00
+draft: false
+hideLastModified: true
+keepImageRatio: yes
+summaryImage: "bridge2modernapp.png"
+tags: ["msda", "service registry", "microservices"]
+summary: "MSDA enable service discovery and registration for F5"
+showInMenu: false
+---
+
+
 # Project MSDA (MicroService Discovery Agent), Bridge to Modern App.
 
 A project to develop an agent(MSDA, MicroService Discovery Agent) for BIG-IP/NGINX to enable service discovery of distributed and Microservices applications.
