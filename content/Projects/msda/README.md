@@ -15,11 +15,11 @@ showInMenu: false
 
 A project to develop an agent(MSDA, MicroService Discovery Agent) for BIG-IP/NGINX to enable service discovery of distributed and Microservices applications.
 
-Phase I: Develop iApps LX template and iControl LX API for BIG-IP
+Develop iApps LX template and iControl LX API for BIG-IP
 
-Phase II: Develop agent or module for NGINX
+Develop agent or module for NGINX
 
-Phase III: Develop Containerized agent for BIG-IP next
+Develop Containerized agent for BIG-IP next
 
 # Github Repo
 
