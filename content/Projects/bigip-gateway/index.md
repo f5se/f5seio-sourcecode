@@ -13,7 +13,6 @@ showInMenu: false
 An implementation for k8s gateway API  with F5 BIG-IP as gateway. Provide full [k8s gateway API](https://gateway-api.sigs.k8s.io/) support and customized API features to enterprise users.
 
 
-
-Project repo:
+Project repo: https://github.com/f5devcentral/bigip-kubernetes-gateway
 
 Online docs: http://gateway-api.f5se.io/
