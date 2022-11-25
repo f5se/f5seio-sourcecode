@@ -6,7 +6,7 @@ hideLastModified: true
 summaryImage: "honeypot-logo.png"
 keepImageRatio: yes
 tags: ["security", "Programming", "Nodejs"]
-summary: "CES is a solution that help fine turn your k8s pods egress policy"
+summary: "A Programming low-interaction and high-interraction Honeypot that can add-on BIG-IP"
 showInMenu: false
 ---
 
