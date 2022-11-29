@@ -14,7 +14,7 @@ showInMenu: false
 
 This is a brand new visualization powered by **Hu** Yipeng (胡易鹏) .
 
-By combining Prometheus+Elasticsearch+Grafana to build a large screen for displaying F5 device status and business operation status.
+By combining Prometheus+Elasticsearch+Grafana to build cool dashboards for F5 device status and business operation status.
 
 - Prometheus combined with snmp-exporter is used to monitor the running status of equipment
 - Elasticsearch combined with F5 HSL to display business operation status
