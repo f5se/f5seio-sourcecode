@@ -6,7 +6,7 @@ hideLastModified: true
 summaryImage: "f5visual.jpg"
 keepImageRatio: yes
 tags: ["f5", "visualization", "grafana", "Partner"]
-summary: "Quickly simulate API request to F5 control plane"
+summary: "How to make beautiful dashbaord by using Prometheus+Elasticsearch+Grafana"
 showInMenu: false
 ---
 
