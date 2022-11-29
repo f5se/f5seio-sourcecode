@@ -20,7 +20,9 @@ By combining Prometheus+Elasticsearch+Grafana to build cool dashboards for F5 de
 - Elasticsearch combined with F5 HSL to display business operation status
 - Grafana is used for large-screen view display
 
-In word under this directory, you can see complete and detailed installation and configuration steps. related display
+ you can see complete and detailed installation and configuration steps at here https://github.com/myf5/f5-elk-demo/tree/master/NEW-Prometheus-elasticsearch-grafana
+
+
 
 | **Dashboard template name**                | **Grafana data source** | **Function**                                            |
 | ------------------------------------------ | ----------------------- | ------------------------------------------------------- |
