@@ -1,6 +1,6 @@
 ---
 title: "Automatic your NGINX NMS deployment "
-date: 2023-3-28T8:41:13+08:00
+date: 2023-03-28T8:41:13+08:00
 draft: false
 hideLastModified: true
 summaryImage: "nms-logo.png"
