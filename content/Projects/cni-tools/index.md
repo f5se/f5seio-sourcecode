@@ -4,7 +4,7 @@ date: 2022-11-18T8:51:13+08:00
 draft: false
 hideLastModified: true
 keepImageRatio: yes
-summaryImage: "cni-tools.png"
+summaryImage: "cni-tools.jpeg"
 tags: ["cni", "k8s", "flannel", "calico", "cilium"]
 summary: "The tools used to setup CNI integration between BIG-IP and Kubernetes."
 showInMenu: false
