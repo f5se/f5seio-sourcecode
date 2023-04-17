@@ -16,7 +16,7 @@ F5 BIG-IP provides multiple kinds of configuration utilities, including xui, tms
 
 This repository provides a golang library for deploying BIG-IP resources via iControl Rest.
 
-Please refer to the [code repository](https://github.com/f5devcentral/f5-bigip-rest) and the [examples](https://github.com/f5devcentral/f5-bigip-rest/tree/main/examples) for details.
+Please refer to the [code repository](https://github.com/f5devcentral/f5-bigip-rest-go) and the [examples](https://github.com/f5devcentral/f5-bigip-rest-go/tree/main/examples) for details.
 
 The library is currently used in the following projects:
 
